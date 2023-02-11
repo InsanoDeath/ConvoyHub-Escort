@@ -1,0 +1,16 @@
+{
+    "Footer": "©2022 by ConvoyHub. All Rights Reserved.",
+    "botinvite": "https://discord.com/api/oauth2/authorize?client_id=969865057775288370&permissions=8&response_type=code&scope=guilds.join%20bot%20applications.commands",
+    
+    "logwebhook": "https://discord.com/api/webhooks/969916108847071242/R0lSxa7w7wpYf2ft8fM7SxCADfrzfu5RwFKOw1NCXOXrWhLiDxmUlvSTrqc2oO_iNCWA",
+    "logGuild": "861208537371377665",
+
+    "OWNER": "539738942346493952",
+    "url": "http://localhost:3002/",
+    "convoyhuburl": "https://www.convoyhub.in/",
+    "express": {
+        "PORT": 3002,
+        "callbackurl": "/redirect"
+    },
+    "discord": "https://discord.gg/HTrJ9Q8Afr"
+}

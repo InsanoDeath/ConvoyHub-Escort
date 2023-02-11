@@ -1,0 +1,26 @@
+{
+  "name": "convoyhub-escort-team",
+  "version": "1.0.0",
+  "description": "Escort Team to Control Your Convoys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "InsanoDeath",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "croxydb": "^0.0.7",
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}
